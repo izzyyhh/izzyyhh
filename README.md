@@ -1,6 +1,6 @@
 <p align="center"><img width="240" src="chopper_winkt.gif" /></p>
 <h2 align="center" >Hi my name's Izzy</h2>
-<p align="center">I love coding.</p>
+<p align="center">I love to code.</p>
 <!--
 **izzyyhh/izzyyhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
