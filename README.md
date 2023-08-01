@@ -1,5 +1,4 @@
-### Hi there 👋
-![Chopper]([path/to/your-gif.gif](https://media.giphy.com/media/R548B8WxpUTsI/giphy.gif))
+<p align="center"><img width="240" src="chopper_winkt.gif" /></p>
 <!--
 **izzyyhh/izzyyhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
