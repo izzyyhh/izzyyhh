@@ -1,6 +1,6 @@
 
 <h1>Hello World</h1>
-<p>I love to code in Typescript and Go.</p>
+<p>I love to code especially in Typescript and Go.</p>
 <!--
 **izzyyhh/izzyyhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="center"><img width="240" src="chopper_winkt.gif" /></p>
